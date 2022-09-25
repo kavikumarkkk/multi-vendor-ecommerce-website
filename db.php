@@ -5,7 +5,7 @@ $date = date('Y/m/d H:ia');
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
-$db = "fdsdb";
+$db = "shop";
 
 // paypal config
 define('PAYPAL_ID', 'sb-ju51r2591117@business.example.com'); 
