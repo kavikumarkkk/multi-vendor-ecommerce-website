@@ -34,7 +34,7 @@ if (isset($_GET['id'])) {
             height: 100vh;
             min-height: 500px;
             background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                url('https://source.unsplash.com/-YHSwy6uqvk/1920x1080');
+                url('https://wallpapercave.com/wp/wp4193729.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
